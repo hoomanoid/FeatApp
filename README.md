@@ -1,2 +1,2 @@
-# FeatApp
+# VoTe app
 #AndroidDevChallenge.
